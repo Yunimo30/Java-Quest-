@@ -1,5 +1,5 @@
 
-# Java Learning Game - Technical Documentation
+# Java Quest - Technical Documentation
 
 ## Overview
 
